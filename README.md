@@ -4,4 +4,4 @@ Loss of ptr-6 restores eggshell integrity and embryonic viability in C. elegans 
 Fatty acid synthase (FASN) is a key rate-limited, dimeric multi-enzyme complex in the de novo lipogenesis pathway. 
 We performed an EMS mutagenesis screen in the temperature-sensitive fasn-1(g43ts) mutant to identify mutations that suppress embryonic lethality.
 Each independent suppressor strain was sequenced by WGS to identify the causal mutation.
-A variant call in VCF format is provided.
+A joint variant call in BCF format is provided.
